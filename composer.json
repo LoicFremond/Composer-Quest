@@ -1,0 +1,16 @@
+{
+    "name": "loic/quete_composer",
+    "description": "Quete WCS composer",
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+
+    },
+    "authors": [
+        {
+            "name": "Loic Fremond",
+            "email": "loic.fremond@hotmail.fr"
+        }
+    ],
+    "require": {}
+    
+}
